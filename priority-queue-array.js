@@ -1,3 +1,9 @@
+// Array implementation of Priority Queue
+// Time Complexities for operations
+// Enqueue - O(1)
+// Dequeue - O(n)
+// Peek -  O(n)
+
 // structure for an element in a priority queue
 class item {
   constructor() {
